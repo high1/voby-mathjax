@@ -7,6 +7,7 @@ import remarkMath from 'remark-math';
 import rehypeMathjax from 'rehype-mathjax';
 
 export default defineConfig({
+  base: '/voby-mathjax/',
   plugins: [
     mdx({ jsxImportSource: 'voby', remarkPlugins: [remarkMath], rehypePlugins: [rehypeMathjax] }),
     voby(),
