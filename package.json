@@ -6,17 +6,18 @@
   "keywords": [],
   "description": "voby mathjax",
   "dependencies": {
-    "voby": "^0.19.1"
+    "voby": "^0.21.4"
   },
   "devDependencies": {
     "@mdx-js/rollup": "^2.1.1",
-    "@types/mdx": "^2.0.1",
+    "@types/mdx": "^2.0.2",
     "rehype-mathjax": "^4.0.2",
     "remark-math": "^5.1.1",
-    "typescript": "^4.6.4",
-    "unocss": "^0.32.13",
-    "vite": "^2.9.8",
-    "vite-tsconfig-paths": "^3.4.1"
+    "typescript": "^4.7.2",
+    "unocss": "^0.34.1",
+    "vite": "^2.9.9",
+    "vite-tsconfig-paths": "^3.4.1",
+    "voby-vite": "^1.0.0"
   },
   "scripts": {
     "build": "vite build",
