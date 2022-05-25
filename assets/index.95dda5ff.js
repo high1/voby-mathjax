@@ -115,4 +115,4 @@ foreignObject[data-mjx-xml] {
 mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
   stroke-width: 3;
 }
-`})]})}}const Vn=()=>V("div",{class:"flex flex-col items-center justify-center"},V(Nn,{components:{h1:e=>V("h1",ie({class:"text-sky-600"},e))}}),";");An(V(Vn,null),document.querySelector("#root"));
+`})]})}}const Vn=()=>V("div",{class:"flex flex-col items-center justify-center h-full bg-amber-50"},V(Nn,{components:{h1:e=>V("h1",ie({class:"text-sky-600"},e))}}),";");An(V(Vn,null),document.querySelector("#root"));
