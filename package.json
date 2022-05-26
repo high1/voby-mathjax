@@ -23,6 +23,6 @@
   },
   "packageManager": "pnpm@7.0.0",
   "dependencies": {
-    "voby": "^0.22.0"
+    "voby": "^0.23.2"
   }
 }

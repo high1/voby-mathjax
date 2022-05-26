@@ -9,11 +9,11 @@ specifiers:
   unocss: ^0.34.1
   vite: ^2.9.9
   vite-tsconfig-paths: ^3.4.1
-  voby: ^0.22.0
+  voby: ^0.23.2
   voby-vite: ^1.0.0
 
 dependencies:
-  voby: 0.22.0
+  voby: 0.23.2
 
 devDependencies:
   '@mdx-js/rollup': 2.1.1
@@ -1754,8 +1754,8 @@ packages:
     resolution: {integrity: sha512-h2AatdwYH+JHiZpv7pt/gSX1XoRGb7L/qSIeuqA6GwYoF9w1vP1cw42TO0aI2pNyshRK5893hNSl+1//vHK7hQ==}
     dev: true
 
-  /oby/7.0.9:
-    resolution: {integrity: sha512-cqaU9Iqv0+nIlJH5cvSRPliTwRyWYXVtJQvvxnT60FOVy/5GLR53mqh7ZKj3yfFt9sxyK0Hv2x5glCxr0EHZPg==}
+  /oby/8.0.1:
+    resolution: {integrity: sha512-OQXZmkxuUDpyzCSZhA5JcO2xViindtYrt6X4T4T4Wq+PTBpJxkEl2faZIcxIKdh5r7DtAcaX//HPS//nN5FaCg==}
     dev: false
 
   /ohmyfetch/0.4.18:
@@ -2367,11 +2367,11 @@ packages:
     resolution: {integrity: sha512-IFiPtKRwNut0xtBAHSW91sxDx91IglULgpPXMUhKrKsKlmMBKw1CeXun9uw1Bl4NS6TGIIkEkQ4XsaydatEx/A==}
     dev: true
 
-  /voby/0.22.0:
-    resolution: {integrity: sha512-SRJTOaO5YyP9KOR64UqJc7CNecIzVsKtcfW2YQCT3Yhtrj5h8Hm0RWVXbm2v36y5s94MREV90qsyFO4X1mTBsg==}
+  /voby/0.23.2:
+    resolution: {integrity: sha512-/++zb/v60yCMJ/2SPNWSzrZcuLSk9lt7+dLY4Oc2yz4ZhMZPXrQ+gOjDczYsOEB+4wZKGZqk/pXSaaEwlc80gQ==}
     dependencies:
       htm: 3.1.1
-      oby: 7.0.9
+      oby: 8.0.1
     dev: false
 
   /w3c-hr-time/1.0.2:
